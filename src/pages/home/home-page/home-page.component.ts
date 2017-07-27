@@ -84,7 +84,8 @@ saveNewUser(){
         [a[i - 1], a[j]] = [a[j], a[i - 1]];
         console.log("i是"+i);
         console.log("j是"+j);
-        console.log(a.index);
+        console.log(a[i-1],a[j]);
+        console.log([a[j], a[i - 1]]);
       }
     }
     shuffle(this.users);
