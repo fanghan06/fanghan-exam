@@ -8,8 +8,8 @@ import { Meta, Title } from '@angular/platform-browser';
 })
 export class HomePageComponent implements OnInit {
   public users: Array<any> = [
-    {"index":19,
-    "name":"刘雨飏",
+    { "index":19,
+      "name": "刘雨飏",
       "sex":"Male",
       "name_en":"Ryane",
       "github":"ryanemax",

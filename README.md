@@ -2,6 +2,13 @@
 
 本项目通过最新版 [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1 创建。
 
+## 项目名称
+Angular_training_exercise
+## 项目简介
+于2017年7月27日始至2017年7月30日止培训期间的练习
+## 作者姓名
+方含
+
 项目目标
 - 提供**LazyLoad**机制，匹配最新版本Angular的初始化项目包
 - 提供**SSR服务端渲染**、SPA静态打包两种运行模式
